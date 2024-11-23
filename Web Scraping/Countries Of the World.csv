@@ -1,0 +1,251 @@
+,name,capital,population,area
+1,Andorra,Andorra la Vella,"84,000",468.0
+2,United Arab Emirates,Abu Dhabi,"4,975,593","82,880.0"
+3,Afghanistan,Kabul,"29,121,286","647,500.0"
+4,Antigua and Barbuda,St. John's,"86,754",443.0
+5,Anguilla,The Valley,"13,254",102.0
+6,Albania,Tirana,"2,986,952","28,748.0"
+7,Armenia,Yerevan,"2,968,000","29,800.0"
+8,Angola,Luanda,"13,068,161","1,246,700.0"
+9,Antarctica,None,0,"14,000,000.0"
+10,Argentina,Buenos Aires,"41,343,201","2,766,890.0"
+11,American Samoa,Pago Pago,"57,881",199.0
+12,Austria,Vienna,"8,205,000","83,858.0"
+13,Australia,Canberra,"21,515,754","7,686,850.0"
+14,Aruba,Oranjestad,"71,566",193.0
+15,Åland,Mariehamn,"26,711","1,580.0"
+16,Azerbaijan,Baku,"8,303,512","86,600.0"
+17,Bosnia and Herzegovina,Sarajevo,"4,590,000","51,129.0"
+18,Barbados,Bridgetown,"285,653",431.0
+19,Bangladesh,Dhaka,"156,118,464","144,000.0"
+20,Belgium,Brussels,"10,403,000","30,510.0"
+21,Burkina Faso,Ouagadougou,"16,241,811","274,200.0"
+22,Bulgaria,Sofia,"7,148,785","110,910.0"
+23,Bahrain,Manama,"738,004",665.0
+24,Burundi,Bujumbura,"9,863,117","27,830.0"
+25,Benin,Porto-Novo,"9,056,010","112,620.0"
+26,Saint Barthélemy,Gustavia,"8,450",21.0
+27,Bermuda,Hamilton,"65,365",53.0
+28,Brunei,Bandar Seri Begawan,"395,027","5,770.0"
+29,Bolivia,Sucre,"9,947,418","1,098,580.0"
+30,Bonaire,Kralendijk,"18,012",328.0
+31,Brazil,Brasília,"201,103,330","8,511,965.0"
+32,Bahamas,Nassau,"301,790","13,940.0"
+33,Bhutan,Thimphu,"699,847","47,000.0"
+34,Bouvet Island,None,0,49.0
+35,Botswana,Gaborone,"2,029,307","600,370.0"
+36,Belarus,Minsk,"9,685,000","207,600.0"
+37,Belize,Belmopan,"314,522","22,966.0"
+38,Canada,Ottawa,"33,679,000","9,984,670.0"
+39,Cocos [Keeling] Islands,West Island,628,14.0
+40,Democratic Republic of the Congo,Kinshasa,"70,916,439","2,345,410.0"
+41,Central African Republic,Bangui,"4,844,927","622,984.0"
+42,Republic of the Congo,Brazzaville,"3,039,126","342,000.0"
+43,Switzerland,Bern,"7,581,000","41,290.0"
+44,Ivory Coast,Yamoussoukro,"21,058,798","322,460.0"
+45,Cook Islands,Avarua,"21,388",240.0
+46,Chile,Santiago,"16,746,491","756,950.0"
+47,Cameroon,Yaoundé,"19,294,149","475,440.0"
+48,China,Beijing,"1,330,044,000","9,596,960.0"
+49,Colombia,Bogotá,"47,790,000","1,138,910.0"
+50,Costa Rica,San José,"4,516,220","51,100.0"
+51,Cuba,Havana,"11,423,000","110,860.0"
+52,Cape Verde,Praia,"508,659","4,033.0"
+53,Curacao,Willemstad,"141,766",444.0
+54,Christmas Island,Flying Fish Cove,"1,500",135.0
+55,Cyprus,Nicosia,"1,102,677","9,250.0"
+56,Czech Republic,Prague,"10,476,000","78,866.0"
+57,Germany,Berlin,"81,802,257","357,021.0"
+58,Djibouti,Djibouti,"740,528","23,000.0"
+59,Denmark,Copenhagen,"5,484,000","43,094.0"
+60,Dominica,Roseau,"72,813",754.0
+61,Dominican Republic,Santo Domingo,"9,823,821","48,730.0"
+62,Algeria,Algiers,"34,586,184","2,381,740.0"
+63,Ecuador,Quito,"14,790,608","283,560.0"
+64,Estonia,Tallinn,"1,291,170","45,226.0"
+65,Egypt,Cairo,"80,471,869","1,001,450.0"
+66,Western Sahara,Laâyoune / El Aaiún,"273,008","266,000.0"
+67,Eritrea,Asmara,"5,792,984","121,320.0"
+68,Spain,Madrid,"46,505,963","504,782.0"
+69,Ethiopia,Addis Ababa,"88,013,491","1,127,127.0"
+70,Finland,Helsinki,"5,244,000","337,030.0"
+71,Fiji,Suva,"875,983","18,270.0"
+72,Falkland Islands,Stanley,"2,638","12,173.0"
+73,Micronesia,Palikir,"107,708",702.0
+74,Faroe Islands,Tórshavn,"48,228","1,399.0"
+75,France,Paris,"64,768,389","547,030.0"
+76,Gabon,Libreville,"1,545,255","267,667.0"
+77,United Kingdom,London,"62,348,447","244,820.0"
+78,Grenada,St. George's,"107,818",344.0
+79,Georgia,Tbilisi,"4,630,000","69,700.0"
+80,French Guiana,Cayenne,"195,506","91,000.0"
+81,Guernsey,St Peter Port,"65,228",78.0
+82,Ghana,Accra,"24,339,838","239,460.0"
+83,Gibraltar,Gibraltar,"27,884",6.5
+84,Greenland,Nuuk,"56,375","2,166,086.0"
+85,Gambia,Bathurst,"1,593,256","11,300.0"
+86,Guinea,Conakry,"10,324,025","245,857.0"
+87,Guadeloupe,Basse-Terre,"443,000","1,780.0"
+88,Equatorial Guinea,Malabo,"1,014,999","28,051.0"
+89,Greece,Athens,"11,000,000","131,940.0"
+90,South Georgia and the South Sandwich Islands,Grytviken,30,"3,903.0"
+91,Guatemala,Guatemala City,"13,550,440","108,890.0"
+92,Guam,Hagåtña,"159,358",549.0
+93,Guinea-Bissau,Bissau,"1,565,126","36,120.0"
+94,Guyana,Georgetown,"748,486","214,970.0"
+95,Hong Kong,Hong Kong,"6,898,686","1,092.0"
+96,Heard Island and McDonald Islands,None,0,412.0
+97,Honduras,Tegucigalpa,"7,989,415","112,090.0"
+98,Croatia,Zagreb,"4,491,000","56,542.0"
+99,Haiti,Port-au-Prince,"9,648,924","27,750.0"
+100,Hungary,Budapest,"9,982,000","93,030.0"
+101,Indonesia,Jakarta,"242,968,342","1,919,440.0"
+102,Ireland,Dublin,"4,622,917","70,280.0"
+103,Israel,None,"7,353,985","20,770.0"
+104,Isle of Man,Douglas,"75,049",572.0
+105,India,New Delhi,"1,173,108,018","3,287,590.0"
+106,British Indian Ocean Territory,None,"4,000",60.0
+107,Iraq,Baghdad,"29,671,605","437,072.0"
+108,Iran,Tehran,"76,923,300","1,648,000.0"
+109,Iceland,Reykjavik,"308,910","103,000.0"
+110,Italy,Rome,"60,340,328","301,230.0"
+111,Jersey,Saint Helier,"90,812",116.0
+112,Jamaica,Kingston,"2,847,232","10,991.0"
+113,Jordan,Amman,"6,407,085","92,300.0"
+114,Japan,Tokyo,"127,288,000","377,835.0"
+115,Kenya,Nairobi,"40,046,566","582,650.0"
+116,Kyrgyzstan,Bishkek,"5,776,500","198,500.0"
+117,Cambodia,Phnom Penh,"14,453,680","181,040.0"
+118,Kiribati,Tarawa,"92,533",811.0
+119,Comoros,Moroni,"773,407","2,170.0"
+120,Saint Kitts and Nevis,Basseterre,"51,134",261.0
+121,North Korea,Pyongyang,"22,912,177","120,540.0"
+122,South Korea,Seoul,"48,422,644","98,480.0"
+123,Kuwait,Kuwait City,"2,789,132","17,820.0"
+124,Cayman Islands,George Town,"44,270",262.0
+125,Kazakhstan,Astana,"15,340,000","2,717,300.0"
+126,Laos,Vientiane,"6,368,162","236,800.0"
+127,Lebanon,Beirut,"4,125,247","10,400.0"
+128,Saint Lucia,Castries,"160,922",616.0
+129,Liechtenstein,Vaduz,"35,000",160.0
+130,Sri Lanka,Colombo,"21,513,990","65,610.0"
+131,Liberia,Monrovia,"3,685,076","111,370.0"
+132,Lesotho,Maseru,"1,919,552","30,355.0"
+133,Lithuania,Vilnius,"2,944,459","65,200.0"
+134,Luxembourg,Luxembourg,"497,538","2,586.0"
+135,Latvia,Riga,"2,217,969","64,589.0"
+136,Libya,Tripoli,"6,461,454","1,759,540.0"
+137,Morocco,Rabat,"31,627,428","446,550.0"
+138,Monaco,Monaco,"32,965",1.95
+139,Moldova,Chişinău,"4,324,000","33,843.0"
+140,Montenegro,Podgorica,"666,730","14,026.0"
+141,Saint Martin,Marigot,"35,925",53.0
+142,Madagascar,Antananarivo,"21,281,844","587,040.0"
+143,Marshall Islands,Majuro,"65,859",181.3
+144,Macedonia,Skopje,"2,062,294","25,333.0"
+145,Mali,Bamako,"13,796,354","1,240,000.0"
+146,Myanmar [Burma],Naypyitaw,"53,414,374","678,500.0"
+147,Mongolia,Ulan Bator,"3,086,918","1,565,000.0"
+148,Macao,Macao,"449,198",254.0
+149,Northern Mariana Islands,Saipan,"53,883",477.0
+150,Martinique,Fort-de-France,"432,900","1,100.0"
+151,Mauritania,Nouakchott,"3,205,060","1,030,700.0"
+152,Montserrat,Plymouth,"9,341",102.0
+153,Malta,Valletta,"403,000",316.0
+154,Mauritius,Port Louis,"1,294,104","2,040.0"
+155,Maldives,Malé,"395,650",300.0
+156,Malawi,Lilongwe,"15,447,500","118,480.0"
+157,Mexico,Mexico City,"112,468,855","1,972,550.0"
+158,Malaysia,Kuala Lumpur,"28,274,729","329,750.0"
+159,Mozambique,Maputo,"22,061,451","801,590.0"
+160,Namibia,Windhoek,"2,128,471","825,418.0"
+161,New Caledonia,Noumea,"216,494","19,060.0"
+162,Niger,Niamey,"15,878,271","1,267,000.0"
+163,Norfolk Island,Kingston,"1,828",34.6
+164,Nigeria,Abuja,"154,000,000","923,768.0"
+165,Nicaragua,Managua,"5,995,928","129,494.0"
+166,Netherlands,Amsterdam,"16,645,000","41,526.0"
+167,Norway,Oslo,"5,009,150","324,220.0"
+168,Nepal,Kathmandu,"28,951,852","140,800.0"
+169,Nauru,Yaren,"10,065",21.0
+170,Niue,Alofi,"2,166",260.0
+171,New Zealand,Wellington,"4,252,277","268,680.0"
+172,Oman,Muscat,"2,967,717","212,460.0"
+173,Panama,Panama City,"3,410,676","78,200.0"
+174,Peru,Lima,"29,907,003","1,285,220.0"
+175,French Polynesia,Papeete,"270,485","4,167.0"
+176,Papua New Guinea,Port Moresby,"6,064,515","462,840.0"
+177,Philippines,Manila,"99,900,177","300,000.0"
+178,Pakistan,Islamabad,"184,404,791","803,940.0"
+179,Poland,Warsaw,"38,500,000","312,685.0"
+180,Saint Pierre and Miquelon,Saint-Pierre,"7,012",242.0
+181,Pitcairn Islands,Adamstown,46,47.0
+182,Puerto Rico,San Juan,"3,916,632","9,104.0"
+183,Palestine,None,"3,800,000","5,970.0"
+184,Portugal,Lisbon,"10,676,000","92,391.0"
+185,Palau,Melekeok,"19,907",458.0
+186,Paraguay,Asunción,"6,375,830","406,750.0"
+187,Qatar,Doha,"840,926","11,437.0"
+188,Réunion,Saint-Denis,"776,948","2,517.0"
+189,Romania,Bucharest,"21,959,278","237,500.0"
+190,Serbia,Belgrade,"7,344,847","88,361.0"
+191,Russia,Moscow,"140,702,000","17,100,000.0"
+192,Rwanda,Kigali,"11,055,976","26,338.0"
+193,Saudi Arabia,Riyadh,"25,731,776","1,960,582.0"
+194,Solomon Islands,Honiara,"559,198","28,450.0"
+195,Seychelles,Victoria,"88,340",455.0
+196,Sudan,Khartoum,"35,000,000","1,861,484.0"
+197,Sweden,Stockholm,"9,828,655","449,964.0"
+198,Singapore,Singapore,"4,701,069",692.7
+199,Saint Helena,Jamestown,"7,460",410.0
+200,Slovenia,Ljubljana,"2,007,000","20,273.0"
+201,Svalbard and Jan Mayen,Longyearbyen,"2,550","62,049.0"
+202,Slovakia,Bratislava,"5,455,000","48,845.0"
+203,Sierra Leone,Freetown,"5,245,695","71,740.0"
+204,San Marino,San Marino,"31,477",61.2
+205,Senegal,Dakar,"12,323,252","196,190.0"
+206,Somalia,Mogadishu,"10,112,453","637,657.0"
+207,Suriname,Paramaribo,"492,829","163,270.0"
+208,South Sudan,Juba,"8,260,490","644,329.0"
+209,São Tomé and Príncipe,São Tomé,"175,808","1,001.0"
+210,El Salvador,San Salvador,"6,052,064","21,040.0"
+211,Sint Maarten,Philipsburg,"37,429",21.0
+212,Syria,Damascus,"22,198,110","185,180.0"
+213,Swaziland,Mbabane,"1,354,051","17,363.0"
+214,Turks and Caicos Islands,Cockburn Town,"20,556",430.0
+215,Chad,N'Djamena,"10,543,464","1,284,000.0"
+216,French Southern Territories,Port-aux-Français,140,"7,829.0"
+217,Togo,Lomé,"6,587,239","56,785.0"
+218,Thailand,Bangkok,"67,089,500","514,000.0"
+219,Tajikistan,Dushanbe,"7,487,489","143,100.0"
+220,Tokelau,None,"1,466",10.0
+221,East Timor,Dili,"1,154,625","15,007.0"
+222,Turkmenistan,Ashgabat,"4,940,916","488,100.0"
+223,Tunisia,Tunis,"10,589,025","163,610.0"
+224,Tonga,Nuku'alofa,"122,580",748.0
+225,Turkey,Ankara,"77,804,122","780,580.0"
+226,Trinidad and Tobago,Port of Spain,"1,228,691","5,128.0"
+227,Tuvalu,Funafuti,"10,472",26.0
+228,Taiwan,Taipei,"22,894,384","35,980.0"
+229,Tanzania,Dodoma,"41,892,895","945,087.0"
+230,Ukraine,Kiev,"45,415,596","603,700.0"
+231,Uganda,Kampala,"33,398,682","236,040.0"
+232,U.S. Minor Outlying Islands,None,0,0.0
+233,United States,Washington,"310,232,863","9,629,091.0"
+234,Uruguay,Montevideo,"3,477,000","176,220.0"
+235,Uzbekistan,Tashkent,"27,865,738","447,400.0"
+236,Vatican City,Vatican City,921,0.44
+237,Saint Vincent and the Grenadines,Kingstown,"104,217",389.0
+238,Venezuela,Caracas,"27,223,228","912,050.0"
+239,British Virgin Islands,Road Town,"21,730",153.0
+240,U.S. Virgin Islands,Charlotte Amalie,"108,708",352.0
+241,Vietnam,Hanoi,"89,571,130","329,560.0"
+242,Vanuatu,Port Vila,"221,552","12,200.0"
+243,Wallis and Futuna,Mata-Utu,"16,025",274.0
+244,Samoa,Apia,"192,001","2,944.0"
+245,Kosovo,Pristina,"1,800,000","10,908.0"
+246,Yemen,Sanaa,"23,495,361","527,970.0"
+247,Mayotte,Mamoudzou,"159,042",374.0
+248,South Africa,Pretoria,"49,000,000","1,219,912.0"
+249,Zambia,Lusaka,"13,460,305","752,614.0"
+250,Zimbabwe,Harare,"11,651,858","390,580.0"

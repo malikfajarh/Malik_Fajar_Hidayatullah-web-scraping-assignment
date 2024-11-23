@@ -1,0 +1,83 @@
+,name,birth year,gender,eye color,hair color,height,mass
+1,Luke Skywalker,19BBY,male,blue,blond,172.0,77.0
+2,C-3PO,112BBY,n/a,yellow,n/a,167.0,75.0
+3,R2-D2,33BBY,n/a,red,n/a,96.0,32.0
+4,Darth Vader,41.9BBY,male,yellow,none,202.0,136.0
+5,Leia Organa,19BBY,female,brown,brown,150.0,49.0
+6,Owen Lars,52BBY,male,blue,"brown, grey",178.0,120.0
+7,Beru Whitesun lars,47BBY,female,blue,brown,165.0,75.0
+8,R5-D4,unknown,n/a,red,n/a,97.0,32.0
+9,Biggs Darklighter,24BBY,male,brown,black,183.0,84.0
+10,Obi-Wan Kenobi,57BBY,male,blue-gray,"auburn, white",182.0,77.0
+11,Anakin Skywalker,41.9BBY,male,blue,blond,188.0,84.0
+12,Wilhuff Tarkin,64BBY,male,blue,"auburn, grey",180.0,
+13,Chewbacca,200BBY,male,blue,brown,228.0,112.0
+14,Han Solo,29BBY,male,brown,brown,180.0,80.0
+15,Greedo,44BBY,male,black,n/a,173.0,74.0
+16,Jabba Desilijic Tiure,600BBY,hermaphrodite,orange,n/a,175.0,1358.0
+17,Wedge Antilles,21BBY,male,hazel,brown,170.0,77.0
+18,Jek Tono Porkins,unknown,male,blue,brown,180.0,110.0
+19,Yoda,896BBY,male,brown,white,66.0,17.0
+20,Palpatine,82BBY,male,yellow,grey,170.0,75.0
+21,Boba Fett,31.5BBY,male,brown,black,183.0,78.2
+22,IG-88,15BBY,none,red,none,200.0,140.0
+23,Bossk,53BBY,male,red,none,190.0,113.0
+24,Lando Calrissian,31BBY,male,brown,black,177.0,79.0
+25,Lobot,37BBY,male,blue,none,175.0,79.0
+26,Ackbar,41BBY,male,orange,none,180.0,83.0
+27,Mon Mothma,48BBY,female,blue,auburn,150.0,
+28,Arvel Crynyd,unknown,male,brown,brown,,
+29,Wicket Systri Warrick,8BBY,male,brown,brown,88.0,20.0
+30,Nien Nunb,unknown,male,black,none,160.0,68.0
+31,Qui-Gon Jinn,92BBY,male,blue,brown,193.0,89.0
+32,Nute Gunray,unknown,male,red,none,191.0,90.0
+33,Finis Valorum,91BBY,male,blue,blond,170.0,
+34,Padmé Amidala,46BBY,female,brown,brown,185.0,45.0
+35,Jar Jar Binks,52BBY,male,orange,none,196.0,66.0
+36,Roos Tarpals,unknown,male,orange,none,224.0,82.0
+37,Rugor Nass,unknown,male,orange,none,206.0,
+38,Ric Olié,unknown,male,blue,brown,183.0,
+39,Watto,unknown,male,yellow,black,137.0,
+40,Sebulba,unknown,male,orange,none,112.0,40.0
+41,Quarsh Panaka,62BBY,male,brown,black,183.0,
+42,Shmi Skywalker,72BBY,female,brown,black,163.0,
+43,Darth Maul,54BBY,male,yellow,none,175.0,80.0
+44,Bib Fortuna,unknown,male,pink,none,180.0,
+45,Ayla Secura,48BBY,female,hazel,none,178.0,55.0
+46,Ratts Tyerel,unknown,male,unknown,none,79.0,15.0
+47,Dud Bolt,unknown,male,yellow,none,94.0,45.0
+48,Gasgano,unknown,male,black,none,122.0,
+49,Ben Quadinaros,unknown,male,orange,none,163.0,65.0
+50,Mace Windu,72BBY,male,brown,none,188.0,84.0
+51,Ki-Adi-Mundi,92BBY,male,yellow,white,198.0,82.0
+52,Kit Fisto,unknown,male,black,none,196.0,87.0
+53,Eeth Koth,unknown,male,brown,black,171.0,
+54,Adi Gallia,unknown,female,blue,none,184.0,50.0
+55,Saesee Tiin,unknown,male,orange,none,188.0,
+56,Yarael Poof,unknown,male,yellow,none,264.0,
+57,Plo Koon,22BBY,male,black,none,188.0,80.0
+58,Mas Amedda,unknown,male,blue,none,196.0,
+59,Gregar Typho,unknown,male,brown,black,185.0,85.0
+60,Cordé,unknown,female,brown,brown,157.0,
+61,Cliegg Lars,82BBY,male,blue,brown,183.0,
+62,Poggle the Lesser,unknown,male,yellow,none,183.0,80.0
+63,Luminara Unduli,58BBY,female,blue,black,170.0,56.2
+64,Barriss Offee,40BBY,female,blue,black,166.0,50.0
+65,Dormé,unknown,female,brown,brown,165.0,
+66,Dooku,102BBY,male,brown,white,193.0,80.0
+67,Bail Prestor Organa,67BBY,male,brown,black,191.0,
+68,Jango Fett,66BBY,male,brown,black,183.0,79.0
+69,Zam Wesell,unknown,female,yellow,blonde,168.0,55.0
+70,Dexter Jettster,unknown,male,yellow,none,198.0,102.0
+71,Lama Su,unknown,male,black,none,229.0,88.0
+72,Taun We,unknown,female,black,none,213.0,
+73,Jocasta Nu,unknown,female,blue,white,167.0,
+74,R4-P17,unknown,female,"red, blue",none,96.0,
+75,Wat Tambor,unknown,male,unknown,none,193.0,48.0
+76,San Hill,unknown,male,gold,none,191.0,
+77,Shaak Ti,unknown,female,black,none,178.0,57.0
+78,Grievous,unknown,male,"green, yellow",none,216.0,159.0
+79,Tarfful,unknown,male,blue,brown,234.0,136.0
+80,Raymus Antilles,unknown,male,brown,brown,188.0,79.0
+81,Sly Moore,unknown,female,white,none,178.0,48.0
+82,Tion Medon,unknown,male,black,none,206.0,80.0
